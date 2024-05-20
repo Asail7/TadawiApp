@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219560811919",
+    "project_id": "tadawii-fb3ce",
+    "storage_bucket": "tadawii-fb3ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219560811919:android:f7b25ee50c3827769abffa",
+        "android_client_info": {
+          "package_name": "com.example.ta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjFzeX8VrbChmBlUfssDfu-Q2kNUfFa8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
